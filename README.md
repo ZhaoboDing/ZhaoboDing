@@ -1,5 +1,9 @@
-### Hi there 👋
+## This is Zhaobo Ding 👋
 
+- I am currently an ECE graduate student at **University of Toronto** and expecting to complete it by the end of April 2022.
+- I finished my undergraduate at **University of Waterloo** triple majored in Computer Science, Statistics and Cobinatorics & Optimization.
+- I will begin to work for **Coinbase** at the end of August.
+- Contact me at ding.zb@yahoo.com
 <!--
 **BananaWolfDing/BananaWolfDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
