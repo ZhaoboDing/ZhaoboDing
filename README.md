@@ -1,7 +1,7 @@
 ## This is Zhaobo Ding 👋
 
-- I am currently an ECE graduate student at **University of Toronto** and expecting to complete it by the end of April 2022.
-- I finished my undergraduate at **University of Waterloo** triple majored in Computer Science, Statistics and Combinatorics & Optimization.
+- I received my Master's degree in Electrical and Computer Engineering from **University of Toronto**.
+- I received a Bachelor of Mathematics degree from **University of Waterloo**, triple majored in Computer Science, Statistics and Combinatorics & Optimization.
 - I will begin to work for **Coinbase** at the end of August.
 - Contact me at ding.zb@yahoo.com
 <!--
