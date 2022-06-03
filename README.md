@@ -2,7 +2,8 @@
 
 - I will receive my Master's degree in *Electrical and Computer Engineering* from **University of Toronto**.
 - I received a Bachelor of Mathematics degree from **University of Waterloo**, triple majored in *Computer Science*, *Statistics* and *Combinatorics & Optimization*.
-- I will begin to work for **Coinbase** after graduation.
+- <s>I will begin to work for **Coinbase** after graduation.</s>
+- Coinbase rescinded my offer T_T, I am findding new job now.
 - Contact me at ding.zb@yahoo.com
 <!--
 **BananaWolfDing/BananaWolfDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
