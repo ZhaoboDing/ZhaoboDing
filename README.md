@@ -2,7 +2,7 @@
 
 - I will receive my Master's degree in *Electrical and Computer Engineering* from **University of Toronto**.
 - I received a Bachelor of Mathematics degree from **University of Waterloo**, triple majored in *Computer Science*, *Statistics* and *Combinatorics & Optimization*.
-- I am now a Data Scientist at StackAdapt.
+- I am now a *Data Scientist* at **StackAdapt**.
 - Contact me at ding.zb@yahoo.com
 <!--
 **BananaWolfDing/BananaWolfDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
