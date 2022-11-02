@@ -1,6 +1,6 @@
 ## This is Zhaobo Ding 👋
 
-- I will receive my Master's degree in *Electrical and Computer Engineering* from **University of Toronto**.
+- I received my Master's degree in *Electrical and Computer Engineering* from **University of Toronto**.
 - I received a Bachelor of Mathematics degree from **University of Waterloo**, triple majored in *Computer Science*, *Statistics* and *Combinatorics & Optimization*.
 - I am now a *Data Scientist* at **StackAdapt**.
 - Contact me at ding.zb@yahoo.com
